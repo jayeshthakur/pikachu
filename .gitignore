@@ -1,5 +1,0 @@
-.daily-sync.log
-.venv/
-__pycache__/
-*.pyc
-logs/*.log
